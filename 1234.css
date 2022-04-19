@@ -1,0 +1,17 @@
+body {
+    background:orange;
+    }
+    
+    h1 {
+    color: #FFF;
+    font-size: 2em;
+    padding-top: 100px;
+    width: 100%;
+    }
+    
+    p {
+        color: green;
+        line-height: 1.3em;
+        text-align: left;
+        width: 100%;
+        }
